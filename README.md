@@ -16,7 +16,7 @@ apt upgrade -y
 apt install git python python2 -y
 ```
 ```
-git clone https://github.com/imvijayps/PhoneSploit.git
+git clone https://github.com/imvps/PhoneSploit.git
 ```
 ```
 cd PhoneSploit
